@@ -1,0 +1,29 @@
+.GenInf{
+    color: blue;
+    font-size: 200%;
+}
+.info{
+    border: black 1px solid;
+    background-color: white;
+}
+.det{
+    color: white;
+    font-size: 200%;
+}
+.btn{
+    background-color: white !important;
+    color: black;
+    border-radius: 30px;
+   
+    
+    
+}
+.inputcont{
+    background-color: blue;
+    color: white !important;
+    border: white 1px solid;
+}
+.bg{ 
+background-color: blue;
+padding-left: 20px;
+}
